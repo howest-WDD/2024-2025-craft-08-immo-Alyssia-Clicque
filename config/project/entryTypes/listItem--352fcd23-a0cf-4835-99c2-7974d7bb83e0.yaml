@@ -1,0 +1,37 @@
+color: null
+fieldLayouts:
+  609f7005-e481-45fd-b7e8-77266b1fe8eb:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            dateAdded: '2024-11-22T09:25:41+00:00'
+            elementCondition: null
+            fieldUid: e2e222ba-6107-4ebe-ba6f-c26cc3a40dd8 # Plain Text
+            handle: listItem
+            includeInCards: false
+            instructions: null
+            label: 'List Item'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 4894ed3c-95c3-4558-8922-2027c5583b60
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: d1c5de6d-0b6c-4af7-9f99-a7e4c0b956df
+        userCondition: null
+handle: listItem
+hasTitleField: false
+icon: ''
+name: 'List Item'
+showSlugField: true
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: ''
+titleTranslationKeyFormat: null
+titleTranslationMethod: site
